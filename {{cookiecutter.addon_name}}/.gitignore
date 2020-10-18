@@ -21,3 +21,4 @@
 *.zip
 *.7z
 __pycache__
+bpy_amb
