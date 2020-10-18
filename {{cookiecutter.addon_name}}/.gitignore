@@ -16,3 +16,8 @@
 
 # Ignore build artifacts
 /dist
+
+# Basic
+*.zip
+*.7z
+__pycache__
