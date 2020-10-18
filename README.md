@@ -2,11 +2,9 @@
 
 # Cookiecutter Blender Addon
 
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)]() [![Discord](https://img.shields.io/badge/discord-chat-7289DA.svg)](https://discord.gg/KvwmdXA)
+![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)
 
 > A sweet and opinionated cookiecutter template for creating a Blender addon.
-
-![demo](.media/demo.gif?raw=true)
 
 ## Features
 - Project is structured as a Python package.
@@ -20,10 +18,4 @@ $ `pip install cookiecutter`
 
 Generate a Blender addon project:
 
-$ `cookiecutter https://github.com/joshuaskelly/cookiecutter-blender-addon.git`
-
-Then:
-- Add custom functionality to `operators.py` or `panels.py`.
-- Add any dependencies to the `requirements.txt` [Requirements file](https://pip.pypa.io/en/stable/user_guide/#requirements-files).
-- Package addon with $ `python package.py`
-- Installable addon zip file will be in the `dist` folder.
+$ `cookiecutter https://github.com/amb/cookiecutter-blender-addon.git`
