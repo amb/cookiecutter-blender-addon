@@ -1,6 +1,5 @@
 {
-    "addon_name": "temp",
-    "module_name": "{{ cookiecutter.addon_name|lower|replace('-', '_') }}",
+    "addon_name": "my_new_blender_addon",
     "version": "1.0.0",
     "blender_version": "2.80.0",
     "description": "",
