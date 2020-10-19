@@ -1,6 +1,5 @@
 # Ignore IDE files
 .idea
-.vscode
 .vs
 /vs
 *.pyproj
