@@ -7,6 +7,7 @@ bl_info = {
     "description": "{{cookiecutter.description}}",
     "warning": "",
     "wiki_url": "",
+    "tracker_url": "https://github.com/{{cookiecutter.github}}/{{cookiecutter.addon_name}}/issues",
     "support": "COMMUNITY",
     "category": "{{cookiecutter.category}}",
 }
